@@ -2,6 +2,17 @@
 
 We follow the CalVer (https://calver.org/) versioning scheme: YY.MINOR.MICRO.
 
+20.1.0 (10-05-2020)
+===================
+
+OSF CAS second release to support staging3 deployment
+
+* Disabled SSL and removed keystore
+* Factored settings out into local and server ones
+* Updated server, network, security, database and authn settings
+* Improved branded sign-in for Preprints and Registries
+* Updated message.properties for staging3 deployment
+
 20.0.0 (09-02-2020)
 ===================
 
